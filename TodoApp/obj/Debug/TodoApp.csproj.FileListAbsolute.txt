@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\TodoApp\TodoApp\bin\Debug\TodoApp.exe.config
+C:\Users\Michael\source\repos\TodoApp\TodoApp\bin\Debug\TodoApp.exe
+C:\Users\Michael\source\repos\TodoApp\TodoApp\bin\Debug\TodoApp.pdb
+C:\Users\Michael\source\repos\TodoApp\TodoApp\bin\Debug\EntityFramework.dll
+C:\Users\Michael\source\repos\TodoApp\TodoApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\source\repos\TodoApp\TodoApp\bin\Debug\EntityFramework.xml
+C:\Users\Michael\source\repos\TodoApp\TodoApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.CopyComplete
+C:\Users\Michael\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.exe
+C:\Users\Michael\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.pdb
+C:\Users\Michael\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.Migrations.InitialCreate.resources
+C:\Users\Michael\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.Migrations.TodoDetauls.resources
